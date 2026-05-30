@@ -50,6 +50,8 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 
 **RESULT:**
+<img width="1098" height="688" alt="WhatsApp Image 2026-05-30 at 8 38 15 AM" src="https://github.com/user-attachments/assets/6baee968-4dd9-42b3-a3cc-88355c7d0e05" />
+
 <img width="1600" height="723" alt="WhatsApp Image 2026-05-24 at 2 35 27 PM" src="https://github.com/user-attachments/assets/3ebb84e9-98f2-44e1-9bf4-f22504790411" />
 
 Thus the phenomenon of resonance in RLC circuit was studied and the following were determined using Multisim Simulator.
